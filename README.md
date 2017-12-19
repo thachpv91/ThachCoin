@@ -1,4 +1,4 @@
-LearnCoin - an educational cryptocurrency based on SmallChange.
+ThachCoin - an educational cryptocurrency based on SmallChange.
 In this version there are no direct changes to block targets, etc.
 Any changes are left up to the user. SmallChange information can be found below.
 I don't take any credit for the SMC source codes, barring the few changes I have made. 
